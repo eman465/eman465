@@ -1,5 +1,4 @@
- Hi there 👋
-![image](https://github.com/eman465/eman465/assets/161242657/b19d01bf-7d82-4bdd-ac72-2d2fbb4471d3)
+ Hi there 👋(https://github.com/eman465/eman465/assets/161242657/b19d01bf-7d82-4bdd-ac72-2d2fbb4471d3)
 
 <!--
 **eman465/eman465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
