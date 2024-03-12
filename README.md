@@ -1,8 +1,8 @@
  Hey there !I'm Eman😊
  <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0050.gif" border="0" alt="animated-hello-image-0050" /></a> 
 ______________________________________________________________________________________________
-👨🏻‍💻  About Me__        
-![image](https://github.com/eman465/eman465/assets/161242657/c85946ed-0dbd-4453-bc35-3fca56844555)
+👨🏻‍💻  About Me__       
+
 
 <!--
 **eman465/eman465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
