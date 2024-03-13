@@ -15,7 +15,6 @@
 <h6>_________________________________________________</h6>
 <h2>🛠️Languages and Tools:</h2>
 <h3>.💻<img src="https://camo.githubusercontent.com/8717d68f9391c117fed2e684f1661d04825367eea9e812bce2316064552612cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=python" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/c0faa9d12d946eb13e6ed45094723eca9908e1872807466b3e8402e54be4425a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3333333333333f7374796c653d666c6174266c6f676f3d43253242253242266c6f676f436f6c6f723d303035393943" alt="verilog" data-canonical-src="https://img.shields.io/badge/-verilog-333333?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" style="max-width: 100%;">
-<a href="https://img.shields.io/badge/just%20the%20message-8A2BE2" target="_blank" rel="noopener noreferrer">https://img.shields.io/badge/just%20the%20message-8A2BE2</a>
 
 </h3>
 <!--<img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
