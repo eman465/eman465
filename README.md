@@ -3,7 +3,7 @@
 <h1>*******************************************************************</h1>
 <h1>👨🏻‍💻  About Me__      </h1>      
 I'm a communication and electronics student who is passionate about VLSI .
-<h1>*</h1>🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" 
+*🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" 
 
 
 <!--
