@@ -16,6 +16,7 @@
 <h2>🛠️Languages and Tools:</h2>
 <h3>.💻<img src="https://camo.githubusercontent.com/8717d68f9391c117fed2e684f1661d04825367eea9e812bce2316064552612cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3333333333333f7374796c653d666c6174266c6f676f3d707974686f6e" alt="Python" data-canonical-src="https://img.shields.io/badge/-Python-333333?style=flat&amp;logo=python" style="max-width: 100%;">
 </h3>
+<img src="https://camo.githubusercontent.com/0ab3ccd947eb4db17d1c8ea89c6ba3e7042b1d7dc5e7bb893339937670c6ab8f/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" data-canonical-src="https://i.imgur.com/A6bWGFl.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <!--
 **eman465/eman465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
