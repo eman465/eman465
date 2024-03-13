@@ -2,7 +2,8 @@
                                   <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0050.gif" border="0" alt="animated-hello-image-0050" /></a>
 <h1>*******************************************************************</h1>
 <h1>👨🏻‍💻  About Me__      </h1>      
-
+I'm a communication and electronics student who is passionate about VLSI .
+<h1>*</h1>🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" 
 
 
 <!--
