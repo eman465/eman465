@@ -15,9 +15,7 @@
 <h6>_________________________________________________</h6>
 <h2>🛠️Languages and Tools:</h2>
 <h3>.💻
-<img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/SystemVerilog-black?style=plastic&logo=C&logoColor=light%20blue">
-
-_<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue">_<img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=plastic&logo=C&logoColor=light%20blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue">-<img alt="Static Badge" src="https://img.shields.io/badge/SystemVerilog-black?style=plastic&logo=C&logoColor=light%20blue">_<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue">_<img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=plastic&logo=C&logoColor=light%20blue">
 _<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=purple">
 _<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=CSS3&logoColor=blue">__<img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=blue">_<img alt="Static Badge" src="https://img.shields.io/badge/basic_matlab-gray?style=plastic&logo=Matlab&logoColor=blue">
 
