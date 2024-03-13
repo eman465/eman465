@@ -3,9 +3,11 @@
 <h1>*******************************************************************</h1>
 <h1>👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
-_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" 
-_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " 
-_
+<h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
+<h4>_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " </h4>
+<h4>_👯 I’m looking to collaborate with people who have the same scientific interests </h4>
+<h4>_🤔I'm looking for help from experts in order to increase my knowledge and learn more from them in my field of work or in life in general</h4>
+
 
 <!--
 **eman465/eman465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
