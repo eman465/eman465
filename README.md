@@ -1,6 +1,6 @@
 <center><h1>😊Hey there !I'm Eman</h1></center>
                                   <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0050.gif" border="0" alt="animated-hello-image-0050" /></a>
-<h1>________________________________________</h1>
+________________________________________
 <h1>👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
 <h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
@@ -10,7 +10,7 @@
 <h4>_ 💬 Ask me what I want to learn from you</h4>
 <h4>_📫How to reach me:<a href=https://www.linkedin.com/in/%C2%BBeman-hussein-65004a21b/>My_LinkedIn_Page😊 </a>_<a href=emanhussein148@gmail.com
 >My_Gmail</a></h4>
-
+_________________________________________________
 
 
 
