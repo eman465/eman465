@@ -19,7 +19,8 @@
 -<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=purple">
 -<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-black?style=plastic&logo=CSS3&logoColor=orange">
 -<img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=blue">-<img alt="Static Badge" src="https://img.shields.io/badge/basicMatlab-black?style=plastic&logoColor=light%20blue"></h3>
-<h3>.⚙️<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=social&logo=Git&logoColor=red">
+<h3>.⚙️<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=social&logo=Git&logoColor=red">
 </h3>
 
 
