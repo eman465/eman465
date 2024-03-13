@@ -21,7 +21,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/basicMatlab-black?style=plastic&logoColor=light%20blue"></h3>
 <h3>.⚙️<img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=plastic&logo=GitHub&logoColor=blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=social&logo=Git&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/linux-black?style=plastic&logo=linux&logoColor=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=social&logo=ubuntu&logoColor=red"></h3>
-<h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green">
+<h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green">
+
 
 
 
