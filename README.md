@@ -3,8 +3,9 @@
 <h1>*******************************************************************</h1>
 <h1>👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
-*🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" 
-
+_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" 
+_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " 
+_
 
 <!--
 **eman465/eman465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
