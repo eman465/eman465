@@ -15,7 +15,8 @@
 <h6>_________________________________________________</h6>
 <h2>🛠️Languages and Tools:</h2>
 <h3>.💻
-<img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue">___<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue">___<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue">__<img alt="Static Badge" src="https://img.shields.io/badge/C-gray?style=plastic&logo=c&logoColor=purple">
+
 
 
 
