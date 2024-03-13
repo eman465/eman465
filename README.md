@@ -18,7 +18,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue">-<img alt="Static Badge" src="https://img.shields.io/badge/SystemVerilog-black?style=plastic&logo=C&logoColor=light%20blue">_<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue">_<img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=plastic&logo=C&logoColor=light%20blue">
 -<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=purple">
 -<img alt="Static Badge" src="https://img.shields.io/badge/CSS3-black?style=plastic&logo=CSS3&logoColor=orange">
--<img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=blue">-<img alt="Static Badge" src="https://img.shields.io/badge/basicMatlab-black?style=plastic&logoColor=light%20blue">
+-<img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=plastic&logo=python&logoColor=blue">-<img alt="Static Badge" src="https://img.shields.io/badge/basicMatlab-black?style=plastic&logoColor=light%20blue"></h3>
+<h3>.⚙️<img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=social&logo=Git&logoColor=red">
+</h3>
 
 
 
