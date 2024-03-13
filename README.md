@@ -1,12 +1,14 @@
 <center><h1>😊Hey there !I'm Eman</h1></center>
                                   <a href="https://www.animatedimages.org/cat-hello-523.htm"><img src="https://www.animatedimages.org/data/media/523/animated-hello-image-0050.gif" border="0" alt="animated-hello-image-0050" /></a>
-<h1>*******************************************************************</h1>
+<h1>___________________________________________________________</h1>
 <h1>👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
 <h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
 <h4>_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " </h4>
 <h4>_👯 I’m looking to collaborate with people who have the same scientific interests </h4>
 <h4>_🤔I'm looking for help from experts in order to increase my knowledge and learn more from them in my field of work or in life in general</h4>
+<h4>_ 💬 Ask me what I want to learn from you</h4>
+
 
 
 <!--
