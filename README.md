@@ -14,7 +14,7 @@
 <h4>_😄 Pronouns:Farida & Amy....</h4>
 <h4>_ ⚡ Fun fact: comedy😄</h4>
 <h6>_________________________________________________</h6>
-<h2>🛠️Languages and Tools:</h2>
+<h2 align="center">🛠️Languages and Tools:</h2>
 <h3>.💻
 <img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/SystemVerilog-black?style=plastic&logo=C&logoColor=light%20blue"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=plastic&logo=C&logoColor=light%20blue">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=HTML5&logoColor=purple">
