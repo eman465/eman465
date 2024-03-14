@@ -24,8 +24,7 @@
 <h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green"><img alt="Static Badge" src="https://img.shields.io/badge/EDA%20playground-black?style=plastic&logo=c&logoColor=%20green">
 </h3>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+There!+ 😊'+I'm+Eman+Hussein;"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=5001&pause=1006&color=2A2BA5D0&background=30325895&center=true&vCenter=true&multiline=true&random=true&width=439&height=52&lines=Hello!+I'm+Eman+Hussein+" alt="Typing SVG" /></a>
 </h1>
 
 
