@@ -1,4 +1,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=666&pause=20&color=349995DC&center=true&multiline=true&random=true&width=415&height=40&lines=%F0%9F%91%8BHey+there+!I'm+Eman%F0%9F%91%8B" alt="Typing SVG" /></a>
                              <h1>😊Hey there !I'm Eman Hi👋 </h1> 
              
 <h1 align="center" color="gotham">👨🏻‍💻  About Me__      </h1>      
