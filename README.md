@@ -26,9 +26,7 @@
 
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Visitors%20-green?style=plastic&logo=Link&logoColor=white&link=left">
-
-![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
+<img alt="Static Badge" src="https://img.shields.io/badge/Visitors%20-green?style=plastic&logo=Link&logoColor=white&link=left">![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 
 
 
