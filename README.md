@@ -10,7 +10,7 @@
 <h4>_📫How to reach me:<a href=https://www.linkedin.com/in/%C2%BBeman-hussein-65004a21b/><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-blue?style=plastic&logo=LinkedIn%20&logoColor=white&link=left"></a>_<a href=emanhussein148@gmail.com><img alt="Static Badge" src="https://img.shields.io/badge/Gamil-redstyle=plastic&logo=Link&logoColor=white&link=left"></a></h4>
 <h4>_😄 Pronouns:Farida & Amy....</h4>
 <h4>_ ⚡ Fun fact: comedy😄</h4>
-<h6>_________________________________________________</h6>
+
 <h2 align="center">🛠️Languages and Tools:</h2>
 <h3>.💻
 <img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/SystemVerilog-black?style=plastic&logo=C&logoColor=light%20blue"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=plastic&logo=C&logoColor=light%20blue">
