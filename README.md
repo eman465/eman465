@@ -1,6 +1,6 @@
 
  <h1  align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=666&pause=20&color=349995DC&center=true&multiline=true&random=true&width=415&height=40&lines=%F0%9F%91%8BHey+there+!I'm+Eman%F0%9F%91%8B" alt="Typing SVG" /></a></h1> 
-<h3 color="blue">👨🏻‍💻  About Me__      </h3>      <img align="right" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+<h3 color="blue">👨🏻‍💻  About Me__      </h3>            <img align="right" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
 <h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
 <h4>_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " </h4>
@@ -22,13 +22,12 @@
 <h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green"><img alt="Static Badge" src="https://img.shields.io/badge/EDA%20playground-black?style=plastic&logo=c&logoColor=%20green">
 </h3>
 
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
+ ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
 
 
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Visitors%20-green?style=plastic&logo=Link&logoColor=white&link=left">![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 <a href="https://github.com/M0nica/M0nica?tab=readme-ov-file#find-me-around-the-web--"></a>
-<img align="right" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 
 
 
