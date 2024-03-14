@@ -1,7 +1,7 @@
 
 <h1>😊Hey there !I'm Eman Hi👋 </h1>
                               
-             <h6> ________________________________________________________________________</h6>
+             
 <h1>👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
 <h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
