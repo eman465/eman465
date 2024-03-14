@@ -1,6 +1,5 @@
-
-<h1>😊Hey there !I'm Eman Hi👋 </h1>
-                              
+![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
+                             <h1>😊Hey there !I'm Eman Hi👋 </h1> 
              
 <h1 align="center" color="gotham">👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
