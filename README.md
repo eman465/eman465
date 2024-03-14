@@ -30,7 +30,7 @@
 
 
 
-<center>![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)</center>
+![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
 
 
 
