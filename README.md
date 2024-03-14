@@ -27,7 +27,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=5001&pause=1006&color=2A2BA5D0&background=30325895&center=true&vCenter=true&multiline=true&random=true&width=439&height=52&lines=Hello!+I'm+Eman+Hussein+" alt="Typing SVG" /></a>
 </h1>
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=dark&show_icons=true)
+<a href=https://github-readme-stats.vercel.app/api?username=eman465&theme=dark&show_icons=true)></a>
 
 
 
