@@ -9,7 +9,8 @@
 <h4>_ 💬 Ask me what I want to learn from you</h4>
 <h4>_📫How to reach me:<a href=https://www.linkedin.com/in/%C2%BBeman-hussein-65004a21b/><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-blue?style=plastic&logo=LinkedIn%20&logoColor=white&link=left">
 
- </a>_<a href=emanhussein148@gmail.com
+ </a>_<a href=emanhussein148@gmail.com><img alt="Static Badge" src="https://img.shields.io/badge/Gamil-red?style=plastic&logo=Link&logoColor=white&link=left">
+</a>
 >My_Gmail</a></h4>
 <h4>_😄 Pronouns:Farida & Amy....</h4>
 <h4>_ ⚡ Fun fact: comedy😄</h4>
