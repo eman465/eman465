@@ -3,7 +3,7 @@
 <h3 color="blue">👨🏻‍💻  About Me__      </h3>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
 <h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
-<h4>_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " </h4>
+<h4>_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " </h4><img align="right" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 <h4>_👯 I’m looking to collaborate with people who have the same scientific interests </h4>
 <h4>_🤔I'm looking for help from experts in order to increase my knowledge and learn more from them in my field of work or in life in general</h4>
 <h4>_ 💬 Ask me what I want to learn from you</h4>
