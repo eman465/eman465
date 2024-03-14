@@ -26,7 +26,7 @@
 
  ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
 
-
+<h4>✨Visitors</h4>
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Visitors%20-green?style=plastic&logo=Link&logoColor=white&link=left">![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 <a href="https://github.com/M0nica/M0nica?tab=readme-ov-file#find-me-around-the-web--"></a>
