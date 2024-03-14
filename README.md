@@ -31,7 +31,7 @@
 
 
 ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
-[![Eman  Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=eman465&type=horizontal)](https://medium.com/@harshalrj25)
+![Eman  Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=eman465&type=horizontal)](https://medium.com/@harshalrj25)
 
 
 
