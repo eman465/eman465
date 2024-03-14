@@ -28,6 +28,7 @@
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Visitors%20-green?style=plastic&logo=Link&logoColor=white&link=left">![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 <a href="https://github.com/M0nica/M0nica?tab=readme-ov-file#find-me-around-the-web--"></a>
+<img align="right" width="200" height="200" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
 
 
 
