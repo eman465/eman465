@@ -23,7 +23,10 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=social&logo=Git&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/linux-black?style=plastic&logo=linux&logoColor=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=social&logo=ubuntu&logoColor=red"></h3>
 <h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green"><img alt="Static Badge" src="https://img.shields.io/badge/EDA%20playground-black?style=plastic&logo=c&logoColor=%20green">
 </h3>
-<img src="https://camo.githubusercontent.com/04a9b1293b014c8bf56577d51fdc3eca492d01d2afac3bb079cc44f445017880/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d5269676874656f75732673697a653d33352663656e7465723d74727565267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d34303030266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b506564726f2b4d756e697a213b" data-canonical-src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+👋;+I'm+Eman+Muniz!;" style="max-width: 100%;">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?
+    font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+There!+ 😊'+I'm+Eman+Hussein;"/>
+</h1>
 
 
 
