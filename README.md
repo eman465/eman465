@@ -21,9 +21,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=social&logo=Git&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/linux-black?style=plastic&logo=linux&logoColor=orange"><img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=social&logo=ubuntu&logoColor=red"></h3>
 <h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green"><img alt="Static Badge" src="https://img.shields.io/badge/EDA%20playground-black?style=plastic&logo=c&logoColor=%20green">
 </h3>
-<a align="center" href="
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)">
-</a>
+
+![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
+
 
 
 
