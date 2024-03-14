@@ -22,15 +22,13 @@
 </h3>
 
 <h6>_______________________________________________________________________________________________________________________________________________________________________</h6>
-<h3 align="center">📊 Profile_stats</h3>
+<h3 >📊 Profile_stats</h3>
 
-
-<a href="https://github.com/M0nica/M0nica?tab=readme-ov-file#find-me-around-the-web--"></a>                  ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
+ ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
+ <h6>_______________________________________________________________________________________________________________________________________________________________________</h6>
 
 <h4>✨Visitors</h4>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Visitors%20-green?style=plastic&logo=Link&logoColor=white&link=left">![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
-<a href="https://github.com/M0nica/M0nica?tab=readme-ov-file#find-me-around-the-web--"></a>
+![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 
 
 
