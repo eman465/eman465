@@ -10,7 +10,6 @@
 <h4>_📫How to reach me:<a href=https://www.linkedin.com/in/%C2%BBeman-hussein-65004a21b/><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-blue?style=plastic&logo=LinkedIn%20&logoColor=white&link=left"></a>_<a href=emanhussein148@gmail.com><img alt="Static Badge" src="https://img.shields.io/badge/Gamil-redstyle=plastic&logo=Link&logoColor=white&link=left"></a></h4>
 <h4>_😄 Pronouns:Farida & Amy....</h4>
 <h4>_ ⚡ Fun fact: comedy😄</h4>
-<h3 align="center">______________________________</h3>
 <h2 align="center">🛠️Languages and Tools:</h2>
 <h3>.💻
 <img alt="Static Badge" src="https://img.shields.io/badge/verilog-gray?style=flat&logo=veilog&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/SystemVerilog-black?style=plastic&logo=C&logoColor=light%20blue"><img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-gray?style=plastic&logo=c%2B%2B&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/C-black?style=plastic&logo=C&logoColor=light%20blue">
@@ -22,7 +21,8 @@
 <h3>.🔧<img alt="Static Badge" src="https://img.shields.io/badge/Quartus%20-black?style=plastic&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/modelsim%20-blue?style=plastic&logo=moelsim&logoColor=red"><img alt="Static Badge" src="https://img.shields.io/badge/visual%20Studio%20Code%20-black?style=plastic&logo=visual%20Studio%20Code&logoColor=blue"><img alt="Static Badge" src="https://img.shields.io/badge/Notepad%2B%2B-black?style=social&logo=Notepad%2B%2B&logoColor=%20green"><img alt="Static Badge" src="https://img.shields.io/badge/EDA%20playground-black?style=plastic&logo=c&logoColor=%20green">
 </h3>
 
-<h4 background="gotham">📊 Profile_stats</h4>
+<h3 align="center">📊 Profile_stats</h3>
+<h3 align="center">______________________________</h3>
 
  ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
 
