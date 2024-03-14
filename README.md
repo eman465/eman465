@@ -1,6 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=25&duration=666&pause=20&color=349995DC&center=true&multiline=true&random=true&width=415&height=40&lines=%F0%9F%91%8BHey+there+!I'm+Eman%F0%9F%91%8B" alt="Typing SVG" /></a>
-<h1 color="gotham">👨🏻‍💻  About Me__      </h1>      
+<h1 color="blue">👨🏻‍💻  About Me__      </h1>      
 <h4>I'm a communication and electronics student who is passionate about VLSI .</h4>
 <h4>_🎓 I'm undergraduate student :in Faulty of Engineering "Fayoum University" </h4>
 <h4>_🌱 I’m currently learning more about VLSI Field & IC_Digital Flow Special "phyiscal design " </h4>
