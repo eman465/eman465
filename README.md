@@ -33,7 +33,7 @@
 
 
 
-<img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=false" data-hpc="false" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=false" data-hpc="false" class="Box-sc-g0xbh8-0 kzRgrI">
 
 
 
