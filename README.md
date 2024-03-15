@@ -27,7 +27,7 @@
  ![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eman465&theme=gotham&show_icons=true)
  <h6 align="center">_______________________________________________________________________________________________________________________________________________________________________</h6>
 
-<h4>Vi👀👀Visitors_Counter</h4>
+<h4>👀Visitors_Counter👀</h4>
 
 ![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 
