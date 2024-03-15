@@ -31,7 +31,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{eman465}/count.svg)
 
-<img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" data-hpc="false" class="Box-sc-g0xbh4-0 kzRgrI">
 
 
 
