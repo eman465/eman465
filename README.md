@@ -35,7 +35,6 @@
 
 <img alt="dino.gif" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh8-0 kzRgrI">
 
-![image](https://github.com/eman465/eman465/assets/161242657/826391b0-d29a-41e4-a261-6f301bc21392)
 
 
 
