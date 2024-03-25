@@ -8,8 +8,6 @@
 <h4>_🤔I'm looking for help from experts in order to increase my knowledge and learn more from them in my field of work or in life in general</h4>
 <h4>_ 💬 Ask me what I want to learn from you</h4>
 <h4>_📫How to reach me:<a href="https://www.linkedin.com/in/%C2%BBeman-hussein-65004a21b/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-blue?style=plastic&logo=LinkedIn%20&logoColor=white&link=left"></a>_<a href=emanhussein148@gmail.com><img alt="Static Badge" src="https://img.shields.io/badge/Gamil-redstyle=plastic&logo=Link&logoColor=white&link=left"></a></h4>
-<h4>_😄 Pronouns:Farida & Amy....</h4>
-<h4>_ ⚡ Fun fact: comedy😄</h4>
 <h2 align="center">🛠️Languages and Tools:</h2>
 
 <h3>.💻
